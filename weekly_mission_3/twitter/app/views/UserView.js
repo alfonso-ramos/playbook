@@ -6,7 +6,7 @@ class UserView{
     }
     static createUser(payload){
         if(payload == null) {
-            return 
+            return
         }
     }
 }
